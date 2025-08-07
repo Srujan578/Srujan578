@@ -1,75 +1,78 @@
 
-<!--
-**Srujan578/Srujan578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey there, I'm Srujan Gundapaneni!
 
-Here are some ideas to get you started:
+🚀 A creative technologist passionate about crafting intelligent systems that **learn from data**, **adapt to context**, and **scale with impact**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...# 👋 Hi there, I'm Srujan Gundapaneni (Srujan578)
-
-I'm a Data Scientist & Software Developer based in Prosper, TX, combining a Master's in Business Analytics & AI with a solid Computer Science foundation. I build intelligent, scalable solutions—from machine learning models to full-stack applications.
+> “From computer science to cognitive intelligence—I'm on a journey to build technology that thinks.”
 
 ---
 
-##  Major Projects
+## 💡 About Me
 
-Here are some of my featured repositories:
-
-- **Heart‑stroke‑prediction**  
-  Predictive analytics project (likely using Python, machine learning, possibly XGBoost/TensorFlow).  
-- **fall2024_ml_credit_risk**  
-  Credit risk modeling using machine learning and possibly SHAP analysis for interpretability.  
-- **DBMS_Project**  
-  Database system implementation or project using SQL/DBMS technologies.  
-- **document_qa_system**  
-  A document intelligence QA system (NLP, chat-based interface, likely implemented with Streamlit, LangChain, or Groq API).  
-- **travel-planner-website**  
-  A travel planning app powered by LLM (LangChain, Groq API), likely with a Flask or web interface.
+🎓 I hold a Master’s degree in **Business Analytics & Artificial Intelligence** from the University of Texas at Dallas, and a Bachelor's in **Computer Science and Engineering** from Mahindra University.  
+🧠 With strong foundations in both **engineering** and **AI-driven analytics**, I design scalable systems that bridge the gap between complex data and real-world decisions.  
+💼 I've worked across diverse domains—**healthcare**, **fintech**, and **travel tech**—applying ML, full-stack development, and cloud deployment to drive meaningful outcomes.
 
 ---
 
-##  Tech Stack & Tools
+## 🧠 What I Work On
 
-- **Languages:** Python, Java, R, C, SQL, JavaScript, HTML, CSS  
-- **Libraries / Frameworks:** TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, Flask, LangChain, Hugging Face, Streamlit  
-- **Tools & Technologies:** Git, Azure Machine Learning, Jupyter, Tableau, Hadoop, ETL, Postman, MySQL  
-- **Certifications:** AWS Cloud Practitioner, SQL Intermediate Certificate  
-
----
-
-##  Sample Repository Highlights
-
-### **Heart‑stroke‑prediction**  
-Machine learning model predicting heart disease or stroke. Potential stack: Python, XGBoost/PyTorch, Jupyter.
-
-### **fall2024_ml_credit_risk**  
-Credit default prediction using ML on large datasets, featuring techniques like XGBoost and SHAP for feature insights.
-
-### **document_qa_system**  
-NLP-powered chat-based QA system built with Streamlit—allowing document uploads and smart querying.
-
-### **travel-planner-website**  
-Conversational AI for travel itinerary generation—integrating LangChain with a Flask or lightweight frontend.
+- 🤖 Machine Learning & Deep Learning (PyTorch, TensorFlow, XGBoost, Hugging Face)
+- 🌐 Full-Stack Web Dev (Flask, React.js, PostgreSQL)
+- 📊 Data Visualization & Insights (Tableau, Streamlit, Excel)
+- ☁️ Cloud Deployment (Azure Machine Learning, AWS, Hadoop)
+- 📚 NLP & LLM-based Applications (LangChain, Groq API)
 
 ---
 
-##  Get in Touch
+## 🧩 Projects That Make Me Proud
 
--  Prosper, TX  
--  gundapanenisrujan@gmail.com  
--  [LinkedIn – Srujan Gundapaneni](https://www.linkedin.com/in/srujan-gundapaneni)  
+### 🔹 [Travel Planner with LLMs](https://github.com/Srujan578/travel-planner-website)  
+`LangChain` `Groq API` `Flask` `JavaScript`  
+🧳 AI-powered travel planning with real-time chat and custom itineraries.
+
+### 🔹 [Credit Risk Prediction](https://github.com/Srujan578/fall2024_ml_credit_risk)  
+`XGBoost` `SHAP` `Python`  
+📉 Built financial models reducing default risk from 24.6% to 9.8%.
+
+### 🔹 [Document QA System](https://github.com/Srujan578/document_qa_system)  
+`Streamlit` `Groq AI` `NLP`  
+📄 Smart document analysis and question answering, 80% faster than manual review.
+
+### 🔹 [Heart-Stroke Predictor](https://github.com/Srujan578/Heart-stroke-prediction)  
+`Machine Learning` `EDA`  
+❤️ Predicting heart and stroke risks using healthcare data.
+
+### 🔹 [DBMS Project](https://github.com/Srujan578/DBMS_Project)  
+`SQL` `Database Design`  
+🧱 Built a structured and optimized DBMS system from the ground up.
 
 ---
 
-##  GitHub Activity 
+## 🛠 Tech Toolbox
 
-![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=Srujan578&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srujan578&layout=compact&theme=radical)
+```yaml
+Languages:        Python, Java, R, SQL, C, JavaScript, HTML/CSS
+Libraries:        PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, Hugging Face
+Web & APIs:       Flask, React, LangChain, REST, PostgreSQL, Streamlit
+Cloud & Tools:    Azure ML, Git, Tableau, Hadoop, MySQL, Postman, Jupyter
+Certifications:   AWS Cloud Practitioner, HackerRank SQL Intermediate
+```
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srujan578&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srujan578&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Let's Connect
+
+📫 Email: [gundapanenisrujan@gmail.com](mailto:gundapanenisrujan@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/srujan-gundapaneni](https://www.linkedin.com/in/srujan-gundapaneni)
+
+---
+
+_Thanks for visiting! Let’s build the future—one intelligent system at a time._ 🚀
