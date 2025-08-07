@@ -31,10 +31,6 @@
 `LangChain` `Groq API` `Flask` `JavaScript`  
 🧳 AI-powered travel planning with real-time chat and custom itineraries.
 
-### 🔹 [Credit Risk Prediction](https://github.com/Srujan578/fall2024_ml_credit_risk)  
-`XGBoost` `SHAP` `Python`  
-📉 Built financial models reducing default risk from 24.6% to 9.8%.
-
 ### 🔹 [Document QA System](https://github.com/Srujan578/document_qa_system)  
 `Streamlit` `Groq AI` `NLP`  
 📄 Smart document analysis and question answering, 80% faster than manual review.
@@ -43,7 +39,11 @@
 `Machine Learning` `EDA`  
 ❤️ Predicting heart and stroke risks using healthcare data.
 
-### 🔹 [DBMS Project](https://github.com/Srujan578/DBMS_Project)  
+### 🔹 [Credit Risk Prediction](https://github.com/itoshiyanazawa/fall2024_ml_credit_risk)  
+`XGBoost` `SHAP` `Python`  
+📉 Built financial models reducing default risk from 24.6% to 9.8%.
+
+### 🔹 [DBMS Project](https://github.com/VenkataRohan/DBMS_Project)  
 `SQL` `Database Design`  
 🧱 Built a structured and optimized DBMS system from the ground up.
 
