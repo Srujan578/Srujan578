@@ -71,7 +71,7 @@ Certifications:   AWS Cloud Practitioner, HackerRank SQL Intermediate
 ## 🌐 Let's Connect
 
 📫 Email: [gundapanenisrujan@gmail.com](mailto:gundapanenisrujan@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/srujan-gundapaneni](https://www.linkedin.com/in/srujan-gundapaneni)
+🔗 LinkedIn: [https://www.linkedin.com/in/srujan1024/](https://www.linkedin.com/in/srujan1024/)
 
 ---
 
